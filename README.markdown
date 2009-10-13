@@ -1,7 +1,7 @@
 Relative tabs
 =============
 
-![Relative tabs](relative_tabs.png)
+![Relative tabs](/NV/relative-tabs/raw/master/relative_tab.png)
 
 Relative tabs is add-on for Firefox. It does just one thing: open new tab next to active.
 
