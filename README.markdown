@@ -5,6 +5,7 @@ Relative tabs
 
 Relative tabs is add-on for Firefox. It does just one thing: open new tab next to active.
 
+Download [relative_tabs.xpi](http://cloud.github.com/downloads/NV/relative-tabs/relative_tabs.xpi).
 
 Yet another?
 --------------
