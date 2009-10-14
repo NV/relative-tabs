@@ -1,4 +1,4 @@
-content   relative_tabs            chrome/content/
-locale    relative_tabs   en-US    chrome/locale/en-US/
+content   relative_tabs            content/
+locale    relative_tabs   en-US    locale/en-US/
 
 overlay   chrome://browser/content/browser.xul   chrome://relative_tabs/content/browser.xul
